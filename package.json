@@ -1,0 +1,16 @@
+{
+  "name": "login-registration-form",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel ./src/index.html",
+    "build": "parcel build ./src/index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  },
+  "keywords": [],
+  "dependencies": {
+    "sass": "1.60.0"
+  }
+}

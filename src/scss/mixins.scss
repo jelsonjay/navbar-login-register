@@ -1,0 +1,11 @@
+@use "./variables" as *;
+
+
+@mixin center {
+  display: flex;
+  align-items: center;
+}
+
+@mixin boxShadow {
+  box-shadow: 0 48px 100px 0 rgba(17, 10, 46,  0.15);
+}
